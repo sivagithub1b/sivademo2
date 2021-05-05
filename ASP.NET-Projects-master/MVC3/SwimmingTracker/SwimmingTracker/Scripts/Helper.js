@@ -5,7 +5,9 @@
 function hideDetails() {
     $("#details").fadeOut();
 }
-
+function hideDetails() {
+    $("#details").fadeOut();
+}
 function toggleFilters() {
     $("#filters").fadeToggle();
 }
