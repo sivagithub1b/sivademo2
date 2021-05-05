@@ -3,7 +3,7 @@
 * offering you a license subject to the terms of the Microsoft Software
 * License Terms for Microsoft ASP.NET Model View Controller 3.
 * Microsoft reserves all other rights. The notices below are provided
-* for informational purposes only and are not the license terms under
+* for informational purposes only and are not the license terms under siva demo
 * which Microsoft distributed this file.
 *
 * jQuery UI 1.8.11
