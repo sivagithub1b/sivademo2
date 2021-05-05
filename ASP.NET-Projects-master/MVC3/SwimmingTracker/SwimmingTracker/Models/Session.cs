@@ -22,16 +22,16 @@ namespace SwimmingTracker.Models
         {
             get
             {
-                int result = 0;
+                int result1 = 0;
                 if (this.Sets != null)
                 {
                     foreach (var set in this.Sets)
                     {
-                        result += set.DistanceYards;
+                        result1 += set.DistanceYards;
                     }
                 }
 
-                return result;
+                return result1;
             }
         }
     }
